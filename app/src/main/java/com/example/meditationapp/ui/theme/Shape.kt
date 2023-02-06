@@ -1,4 +1,4 @@
-package com.example.meditationapp.ui.theme
+package com.example.meditationapp
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
